@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  font-family: Festive, 'sans-serif';
+}
+
+h2 {
+  text-align: center;
+}
+
+body {
+  background-image: url("https://static01.nyt.com/images/2021/08/22/books/review/Bissell/Bissell-facebookJumbo.jpg");
+  font-family: Tangerine, 'sans-serif';
+  color: red;
+}
+
+img {
+  float: left;
+  margin-right: 20px;
+}
